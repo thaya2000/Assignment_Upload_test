@@ -1,0 +1,20 @@
+﻿Desktop_Application
+
+
+winexe
+C#
+.cs
+D:\Semester 3\Project\Desktop_Application_old\Desktop_Application\Desktop_Application\obj\Debug\net7.0-windows\
+Desktop_Application
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+D:\Semester 3\Project\Desktop_Application_old\Desktop_Application\Desktop_Application\App.xaml
+4558892596
+
+24811559446
+250837467942
+CustomControl\BindablePasswordBox.xaml;Views\AdminWindow.xaml;Views\LogInWindow.xaml;Views\StaffWindow.xaml;
+
+False
+
